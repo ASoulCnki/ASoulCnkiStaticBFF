@@ -1,6 +1,6 @@
 # asoulcnki-front-egg-bff
 
-用于枝网测试环境的eggjs调试  
+用于枝网测试环境的eggjs调试，为前端history模式路由提供支持    
 将前端build后的项目放到app/public下，然后npm run dev，打开浏览器7001端口查看
 
 ## QuickStart

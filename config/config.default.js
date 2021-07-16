@@ -26,6 +26,9 @@ module.exports = appInfo => {
     },
     csrf: false,
   };
+  config.notfound = {
+    pageUrl: '/',
+  };
 
   // add your middleware config here
   config.middleware = [];
